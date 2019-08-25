@@ -2,3 +2,5 @@ name: Runn1ng 0ut 0f 1nk
 markdown: kramdown
 remote_theme: pages-themes/hacker
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-hacker
