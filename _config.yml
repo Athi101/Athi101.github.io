@@ -1,4 +1,4 @@
 name: Runn1ng 0ut 0f 1nk
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/hacker
 permalink: /blog/:year/:month/:day/:title
