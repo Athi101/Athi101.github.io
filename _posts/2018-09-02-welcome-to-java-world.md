@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Welcome to Java World"
 date: 2018-09-02
 ---
