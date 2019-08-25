@@ -22,9 +22,10 @@ Property of polymorphism can be compared to Mystique in X-Men - one name , diffe
 
  
 
-public class Hello{
+    public class Hello {
           int a;
-         String b;
+          String b;
+          
           public Hello( ){
                         a = 0 ;
                        b = null;
@@ -37,9 +38,9 @@ public class Hello{
 
          public static void main(String[] args) {
                               System.out.println("Hello World");
-       }
+        }
 
-}
+    }
 
  
 
@@ -59,11 +60,11 @@ protected can be access outside the class but then we have to create an object o
 
  
 
-public class Hello{
+    public class Hello{
            public static void main( ){
                  System.out.println("Hello World");
+           }
     }
-}
 
  
 
